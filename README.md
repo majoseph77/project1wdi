@@ -24,10 +24,6 @@ This is a version of the basic game, known as two-rank Mancala and also known as
 
 - If the last piece you drop is in your own store, you get a free turn.
 
-<!-- //might git red of this rule// -->
-- If the last piece you drop is in an empty hole on your side, you capture that
-  piece and any pieces in the hole directly opposite.
-
 - Always place all captured pieces in your store.
 
 - The game ends when all six spaces on one side of the Mancala board are empty.
@@ -88,7 +84,7 @@ how many stones are in my opponents large pit so that I can know if they have
 more points than me.
 
 -  As a user I want to know who has the current turn so I can know if its
-my move or noturn
+my move
 
 
 ## Icebox
